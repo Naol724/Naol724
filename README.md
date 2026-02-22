@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naol Gonfa
 
-### 🚀 Full Stack Developer | Flutter Developer | Computer Science Student
+### 🚀 React & Node.js Full Stack Developer  | Computer Science Student
 
 📍 Ethiopia | 💼 Open to Work | 🔥 Passionate About Building Real Systems
 
