@@ -1,23 +1,23 @@
 # 👋 Hi, I'm Naol Gonfa
 
-### 🚀 React & Node.js Full Stack Developer  | Computer Science Student
+### 🚀 React & Node.js Full Stack Developer | Computer Science Student
 
-📍 Ethiopia | 💼 Open to Work | 🔥 Passionate About Building Real Systems
+📍 Ethiopia | 💼 Open to Work | 🔥 Passionate About Building Real-World Systems
 
 ---
 
 ## 🧠 About Me
 
-I am a dedicated Computer Science student with strong discipline and real project experience.
+I am a dedicated Computer Science student with strong discipline and hands-on project experience.
 
 I specialize in:
 
 * Full Stack Web Development
 * Flutter Mobile App Development
-* Database Design
-* Clean Code & Structured Architecture
+* Database Design & Schema Architecture
+* Clean Code & Structured System Design
 
-I focus on building real-world systems that solve real problems.
+I focus on building scalable, real-world systems that solve meaningful problems.
 
 > “Consistency builds mastery.”
 
@@ -43,82 +43,141 @@ Flutter • Dart • Clean UI Architecture
 
 ### 🗄 Database
 
-Oracle SQL • MySQL • Schema Design
+Oracle SQL • MySQL • Database Schema Design • PosgressDB • MongoDB 
 
 ### 🧩 Core Knowledge
 
-Data Structures • Algorithms • OOP • Database Recovery • Concurrency Control
+Data Structures • Algorithms • Object-Oriented Programming • Database Recovery • Concurrency Control
 
 ---
 
 # 🌟 Featured Projects
 
-## 🎓 EduHub Fullstack App
+## 🧠 DebugSense AI – Smart Error Explainer for Developers
 
-Full Stack education platform with frontend + backend integration.
+🔗 GitHub: https://github.com/Naol724/Debugsenser-ai
 
-🔗 [https://github.com/Naol724/Eduhub-fullstack-App](https://github.com/Naol724/Eduhub-fullstack-App)
+🌐 Live Demo: https://debugsenser-ai-3.onrender.com/
 
----
+An AI-powered full-stack web application that helps developers instantly understand and fix programming errors.
 
-## 📱 Flutter Learning Platform
+Built with React 18, Vite, Tailwind CSS, Node.js, and Express, and integrated with Groq (LLaMA-3.3-70b) to generate structured, beginner-friendly explanations for stack traces and compiler errors.
 
-Modern responsive Flutter app with structured UI.
+The system breaks down:
 
-🔗 [https://github.com/Naol724/Flutter-Learning-Platform](https://github.com/Naol724/Flutter-Learning-Platform)
+What the error means
 
----
+Why it happens
 
-## 🛒 React Amazon Clone
+How to fix it
 
-E-commerce UI clone using React.
-
-🔗 [https://github.com/Naol724/React-Amazon-clone](https://github.com/Naol724/React-Amazon-clone)
+Corrected code examples
 
 ---
 
-## 🎬 React Movie App
+## 🌦️ Weather Application
 
-Dynamic movie browsing app using React and APIs.
+🔗 GitHub: https://github.com/Naol724/WeatherApp
 
-🔗 [https://github.com/Naol724/react-movie-app](https://github.com/Naol724/react-movie-app)
+🌐 Live Demo: https://weather-app-delta-two-88.vercel.app/
+
+A modern, responsive weather application that provides real-time weather data using the OpenWeatherMap API.
+
+Built with Vanilla JavaScript (ES6+), Tailwind CSS, and the Geolocation API, the app allows users to search by city name with autocomplete or fetch weather data using their current location.
+
+Features secure API key handling, asynchronous data fetching (async/await), error handling, and mobile-first responsive design.
 
 ---
 
-## 📚 Library Management System (JavaFX)
+## 🛒 React E-Commerce App (Amazon-Style)
 
-Desktop application for managing books and users.
+🔗 GitHub: https://github.com/Naol724/React-Amazon-clone
+
+🌐 Live Demo: https://react-ecommerce-app-24et.onrender.com/
+
+A fully functional Amazon-style e-commerce web application built with React, Firebase, and Stripe integration.
+
+Implements secure authentication, dynamic product listings, shopping cart management, real-time checkout processing, and order history tracking. Designed with a fully responsive layout (320px–1920px+) and optimized for performance using Vite.
+
+🚀 Key Features
+
+User authentication (Firebase Auth)
+
+Product browsing and dynamic cart updates
+
+Secure Stripe payment integration
+
+Order history storage (Firestore)
+
+Responsive design for mobile, tablet, and desktop
+
+Protected routes and state management
+
+🛠 Tech Stack
+
+Frontend: React, Vite, CSS
+Backend/Services: Firebase (Auth + Firestore)
+Payments: Stripe API
+
+---
+
+## 🎬 Netflix Clone – React Movie App
+
+🔗 GitHub: https://github.com/Naol724/react-movie-app
+
+🌐 Live Demo: https://movie-streaming-app-0p2g.onrender.com/
+
+A Netflix-style movie streaming interface built with React and TMDb API integration.
+
+Fetches real-time movie data, supports category-based browsing, search functionality, and YouTube trailer playback. Built using modern React Hooks and optimized component-based architecture for scalability and performance.
+
+🚀 Key Features
+
+Real-time movie data from TMDb API
+
+Search functionality
+
+Category-based browsing (Trending, Top Rated, etc.)
+
+YouTube trailer integration
+
+Responsive UI for all screen sizes
+
+Optimized rendering and API calls
+
+🛠 Tech Stack
+
+Frontend: React, CSS Modules
+API Integration: TMDb API, YouTube API
+Deployment: Render
+---
+
+## 📚 Library Management System (JavaFX + PostgreSQL)
+A role-based desktop Library Management System developed using JavaFX (programmatic UI) and PostgreSQL.
+
+Supports multi-role authentication, book inventory management, transaction processing, reservation system, and secure database operations using prepared statements. Built with MVC architecture to ensure clean code structure and maintainability.
 
 🔗 [https://github.com/Naol724/Library-management-system-with-Javafx](https://github.com/Naol724/Library-management-system-with-Javafx)
 
 ---
 
 ## 🎨 Bootstrap App Clone
+🔗 GitHub: https://github.com/Naol724/Bootstrap-App-Clone
 
-Responsive UI built using Bootstrap.
+🌐 Live Demo: https://bootstrap-app-clone-1.onrender.com/
 
-🔗 [https://github.com/Naol724/Bootstrap-App-Clone](https://github.com/Naol724/Bootstrap-App-Clone)
+A fully responsive Apple-style UI clone built with Bootstrap 5 using a mobile-first approach.
 
----
+Implements responsive navigation, interactive footer accordion (mobile), structured section layouts, and smooth CSS transitions. Designed to replicate Apple’s clean, minimalist aesthetic while ensuring cross-browser compatibility and optimized performance across all screen sizes.
 
-# 📈 GitHub Stats
 
-Replace Naol724 if needed.
-
-```
-![Naol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naol724&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naol724&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naol724&theme=tokyonight)
-```
 
 ---
 
 # 🎯 Current Focus
 
-* Advanced React
-* Backend Architecture
+* Advanced React Patterns
+* Backend Architecture & API Design
 * Scalable Full Stack Applications
 * Advanced Flutter State Management
 
@@ -144,13 +203,13 @@ Replace Naol724 if needed.
 
 # 🔥 Personal Drive
 
-I started with limited resources, but strong discipline and focus.
+I started with limited resources but strong discipline and focus.
 
 I believe in:
 
 * Hard Work
 * Deep Learning
-* Real Projects
+* Building Real Projects
 * Continuous Growth
 
 ---
