@@ -1,18 +1,11 @@
 <p align="center">
 <img src="banner.png"/>
 </p>
-
 <h1 align="center">
 </h1>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Flutter;Building+Real+World+Systems;Always+Learning+New+Technologies;Open+to+Work+%F0%9F%9A%80" />
 </p>
-
-📍 Ethiopia | 💼 Open to Work | 🔥 Passionate About Building Real-World Systems
-
----
-
 # 🧠 About Me
 
 I am a dedicated **Computer Science student** with strong discipline and hands-on project experience.
