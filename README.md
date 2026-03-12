@@ -1,77 +1,68 @@
+
 # 👋 Hi, I'm Naol Gonfa
 
-### 🚀 React & Node.js Full Stack Developer | Computer Science Student
+### 🚀 Full Stack Developer | React • Node.js • Flutter
 
 📍 Ethiopia | 💼 Open to Work | 🔥 Passionate About Building Real-World Systems
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-I am a dedicated Computer Science student with strong discipline and hands-on project experience.
+I am a dedicated **Computer Science student** with strong discipline and hands-on project experience.
 
 I specialize in:
 
-* Full Stack Web Development
-* Flutter Mobile App Development
-* Database Design & Schema Architecture
-* Clean Code & Structured System Design
+✔ Full Stack Web Development
+✔ Flutter Mobile App Development
+✔ Database Design & Schema Architecture
+✔ Clean Code & Structured System Design
 
-I focus on building scalable, real-world systems that solve meaningful problems.
+I focus on building **scalable real-world systems that solve meaningful problems.**
 
-> “Consistency builds mastery.”
+> *“Consistency builds mastery.”*
 
 ---
 
 # 🛠 Tech Stack
 
-## 💻 Languages
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,java,js,dart,cs" />
 <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
----
-
-## 🌐 Frontend
+### 🌐 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
 <img src="https://img.shields.io/badge/Responsive_Design-UI-blueviolet?style=for-the-badge"/>
 </p>
 
----
-
-## ⚙ Backend
+### ⚙ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 <img src="https://img.shields.io/badge/REST_API-Backend-green?style=for-the-badge&logo=fastapi"/>
 </p>
 
----
-
-## 📱 Mobile Development
+### 📱 Mobile
 
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 <img src="https://img.shields.io/badge/Clean_UI_Architecture-Mobile-blue?style=for-the-badge"/>
 </p>
 
----
-
-## 🗄 Database
+### 🗄 Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 <img src="https://img.shields.io/badge/Oracle_SQL-Database-red?style=for-the-badge&logo=oracle"/>
-<img src="https://img.shields.io/badge/Database_Schema_Design-DB-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database_Schema_Design-Architecture-orange?style=for-the-badge"/>
 </p>
 
----
-
-## 🧩 Core Knowledge
+### 🧩 Core Knowledge
 
 <p>
 <img src="https://img.shields.io/badge/Data_Structures-DSA-blue?style=for-the-badge"/>
@@ -83,137 +74,117 @@ I focus on building scalable, real-world systems that solve meaningful problems.
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Naol724&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naol724&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naol724&theme=tokyo-night"/>
+
+</p>
+
 ---
 
 # 🌟 Featured Projects
 
-## 🧠 DebugSense AI – Smart Error Explainer for Developers
+## 🧠 DebugSense AI – Smart Error Explainer
 
-🔗 GitHub: https://github.com/Naol724/Debugsenser-ai
+🔗 GitHub
+[https://github.com/Naol724/Debugsenser-ai](https://github.com/Naol724/Debugsenser-ai)
 
-🌐 Live Demo: https://debugsenser-ai-3.onrender.com/
+🌐 Live Demo
+[https://debugsenser-ai-3.onrender.com/](https://debugsenser-ai-3.onrender.com/)
 
-An AI-powered full-stack web application that helps developers instantly understand and fix programming errors.
+AI-powered system that explains programming errors and provides corrected code using **LLaMA-3.3-70B via Groq API**.
 
-Built with React 18, Vite, Tailwind CSS, Node.js, and Express, and integrated with Groq (LLaMA-3.3-70b) to generate structured, beginner-friendly explanations for stack traces and compiler errors.
+**Tech Stack**
 
-The system breaks down:
-
-What the error means
-
-Why it happens
-
-How to fix it
-
-Corrected code examples
+React • Vite • Tailwind • Node.js • Express • Groq API
 
 ---
 
-## 🌦️ Weather Application
+## 🌦 Weather Application
 
-🔗 GitHub: https://github.com/Naol724/WeatherApp
+🔗 GitHub
+[https://github.com/Naol724/WeatherApp](https://github.com/Naol724/WeatherApp)
 
-🌐 Live Demo: https://weather-app-delta-two-88.vercel.app/
+🌐 Live Demo
+[https://weather-app-delta-two-88.vercel.app/](https://weather-app-delta-two-88.vercel.app/)
 
-A modern, responsive weather application that provides real-time weather data using the OpenWeatherMap API.
+Real-time weather application using **OpenWeatherMap API** with geolocation support.
 
-Built with Vanilla JavaScript (ES6+), Tailwind CSS, and the Geolocation API, the app allows users to search by city name with autocomplete or fetch weather data using their current location.
+**Tech Stack**
 
-Features secure API key handling, asynchronous data fetching (async/await), error handling, and mobile-first responsive design.
+JavaScript • Tailwind CSS • API Integration
 
 ---
 
 ## 🛒 React E-Commerce App (Amazon-Style)
 
-🔗 GitHub: https://github.com/Naol724/React-Amazon-clone
+🔗 GitHub
+[https://github.com/Naol724/React-Amazon-clone](https://github.com/Naol724/React-Amazon-clone)
 
-🌐 Live Demo: https://react-ecommerce-app-24et.onrender.com/
+🌐 Live Demo
+[https://react-ecommerce-app-24et.onrender.com/](https://react-ecommerce-app-24et.onrender.com/)
 
-A fully functional Amazon-style e-commerce web application built with React, Firebase, and Stripe integration.
+A full e-commerce platform with authentication, payments, and order history.
 
-Implements secure authentication, dynamic product listings, shopping cart management, real-time checkout processing, and order history tracking. Designed with a fully responsive layout (320px–1920px+) and optimized for performance using Vite.
+**Tech Stack**
 
-🚀 Key Features
-
-User authentication (Firebase Auth)
-
-Product browsing and dynamic cart updates
-
-Secure Stripe payment integration
-
-Order history storage (Firestore)
-
-Responsive design for mobile, tablet, and desktop
-
-Protected routes and state management
-
-🛠 Tech Stack
-
-Frontend: React, Vite, CSS
-Backend/Services: Firebase (Auth + Firestore)
-Payments: Stripe API
+React • Firebase • Stripe API • Vite
 
 ---
 
 ## 🎬 Netflix Clone – React Movie App
 
-🔗 GitHub: https://github.com/Naol724/react-movie-app
+🔗 GitHub
+[https://github.com/Naol724/react-movie-app](https://github.com/Naol724/react-movie-app)
 
-🌐 Live Demo: https://movie-streaming-app-0p2g.onrender.com/
+🌐 Live Demo
+[https://movie-streaming-app-0p2g.onrender.com/](https://movie-streaming-app-0p2g.onrender.com/)
 
-A Netflix-style movie streaming interface built with React and TMDb API integration.
+Netflix-style streaming UI using **TMDb API** and **YouTube trailer integration**.
 
-Fetches real-time movie data, supports category-based browsing, search functionality, and YouTube trailer playback. Built using modern React Hooks and optimized component-based architecture for scalability and performance.
-
-🚀 Key Features
-
-Real-time movie data from TMDb API
-
-Search functionality
-
-Category-based browsing (Trending, Top Rated, etc.)
-
-YouTube trailer integration
-
-Responsive UI for all screen sizes
-
-Optimized rendering and API calls
-
-🛠 Tech Stack
-
-Frontend: React, CSS Modules
-API Integration: TMDb API, YouTube API
-Deployment: Render
 ---
 
-## 📚 Library Management System (JavaFX + PostgreSQL)
-A role-based desktop Library Management System developed using JavaFX (programmatic UI) and PostgreSQL.
+## 📚 Library Management System
 
-Supports multi-role authentication, book inventory management, transaction processing, reservation system, and secure database operations using prepared statements. Built with MVC architecture to ensure clean code structure and maintainability.
+🔗 GitHub
+[https://github.com/Naol724/Library-management-system-with-Javafx](https://github.com/Naol724/Library-management-system-with-Javafx)
 
-🔗 [https://github.com/Naol724/Library-management-system-with-Javafx](https://github.com/Naol724/Library-management-system-with-Javafx)
+Desktop **Library Management System** built with **JavaFX + PostgreSQL** using MVC architecture.
 
 ---
 
 ## 🎨 Bootstrap App Clone
-🔗 GitHub: https://github.com/Naol724/Bootstrap-App-Clone
 
-🌐 Live Demo: https://bootstrap-app-clone-1.onrender.com/
+🔗 GitHub
+[https://github.com/Naol724/Bootstrap-App-Clone](https://github.com/Naol724/Bootstrap-App-Clone)
 
-A fully responsive Apple-style UI clone built with Bootstrap 5 using a mobile-first approach.
+🌐 Live Demo
+[https://bootstrap-app-clone-1.onrender.com/](https://bootstrap-app-clone-1.onrender.com/)
 
-Implements responsive navigation, interactive footer accordion (mobile), structured section layouts, and smooth CSS transitions. Designed to replicate Apple’s clean, minimalist aesthetic while ensuring cross-browser compatibility and optimized performance across all screen sizes.
-
-
+Apple-style responsive UI built with **Bootstrap 5**.
 
 ---
 
 # 🎯 Current Focus
 
-* Advanced React Patterns
-* Backend Architecture & API Design
-* Scalable Full Stack Applications
-* Advanced Flutter State Management
+🚀 Advanced React Patterns
+⚙ Backend Architecture & API Design
+📱 Advanced Flutter State Management
+🌍 Scalable Full Stack Applications
 
 ---
 
@@ -229,21 +200,49 @@ Implements responsive navigation, interactive footer accordion (mobile), structu
 
 # 📫 Connect With Me
 
-📧 Email: [naolgonfa39@gmail.com](mailto:naolgonfa39@gmail.com)
-🔗 LinkedIn: [https://www.linkedin.com/in/naol-gonfa-61b7a9363/](https://www.linkedin.com/in/naol-gonfa-61b7a9363/)
-💻 GitHub: [https://github.com/Naol724](https://github.com/Naol724)
+📧 Email
+[naolgonfa39@gmail.com](mailto:naolgonfa39@gmail.com)
+
+🔗 LinkedIn
+[https://www.linkedin.com/in/naol-gonfa-61b7a9363/](https://www.linkedin.com/in/naol-gonfa-61b7a9363/)
+
+💻 GitHub
+[https://github.com/Naol724](https://github.com/Naol724)
 
 ---
 
 # 🔥 Personal Drive
 
-I started with limited resources but strong discipline and focus.
+I started with **limited resources but strong discipline and focus.**
 
 I believe in:
 
-* Hard Work
-* Deep Learning
-* Building Real Projects
-* Continuous Growth
+✔ Hard Work
+✔ Deep Learning
+✔ Building Real Projects
+✔ Continuous Growth
 
 ---
+
+💡 **Important step (many people forget this):**
+
+To make this appear on your GitHub profile:
+
+1️⃣ Create a **new repository** named exactly:
+
+```
+Naol724
+```
+
+2️⃣ Add a file:
+
+```
+README.md
+```
+
+3️⃣ Paste this code inside.
+
+Then your **GitHub profile will look like a professional developer page.**
+
+---
+
