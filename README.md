@@ -23,31 +23,65 @@ I focus on building scalable, real-world systems that solve meaningful problems.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### 💻 Languages
+## 💻 Languages
 
-C++ • JavaScript • Dart • Java • SQL • C#
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,js,dart,cs" />
+<img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
-### 🌐 Frontend
+---
 
-React • HTML5 • CSS3 • Bootstrap • Responsive Design
+## 🌐 Frontend
 
-### ⚙ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+<img src="https://img.shields.io/badge/Responsive_Design-UI-blueviolet?style=for-the-badge"/>
+</p>
 
-Node.js • Express • REST APIs
+---
 
-### 📱 Mobile
+## ⚙ Backend
 
-Flutter • Dart • Clean UI Architecture
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://img.shields.io/badge/REST_API-Backend-green?style=for-the-badge&logo=fastapi"/>
+</p>
 
-### 🗄 Database
+---
 
-Oracle SQL • MySQL • Database Schema Design • PosgressDB • MongoDB 
+## 📱 Mobile Development
 
-### 🧩 Core Knowledge
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+<img src="https://img.shields.io/badge/Clean_UI_Architecture-Mobile-blue?style=for-the-badge"/>
+</p>
 
-Data Structures • Algorithms • Object-Oriented Programming • Database Recovery • Concurrency Control
+---
+
+## 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+<img src="https://img.shields.io/badge/Oracle_SQL-Database-red?style=for-the-badge&logo=oracle"/>
+<img src="https://img.shields.io/badge/Database_Schema_Design-DB-orange?style=for-the-badge"/>
+</p>
+
+---
+
+## 🧩 Core Knowledge
+
+<p>
+<img src="https://img.shields.io/badge/Data_Structures-DSA-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-Problem_Solving-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-Object_Oriented-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database_Recovery-DB-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Concurrency_Control-System-orange?style=for-the-badge"/>
+</p>
+
+---
 
 ---
 
