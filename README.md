@@ -97,88 +97,102 @@ I focus on building **scalable real-world systems that solve meaningful problems
 
 </p>
 
+
 ---
 
 # 🌟 Featured Projects
 
 ## 🧠 DebugSense AI – Smart Error Explainer
 
-🔗 GitHub
-[https://github.com/Naol724/Debugsenser-ai](https://github.com/Naol724/Debugsenser-ai)
-
-🌐 Live Demo
-[https://debugsenser-ai-3.onrender.com/](https://debugsenser-ai-3.onrender.com/)
+🔗 GitHub: [DebugSense AI](https://github.com/Naol724/Debugsenser-ai)
+🌐 Live Demo: [Live Demo](https://debugsenser-ai-3.onrender.com/)
 
 AI-powered system that explains programming errors and provides corrected code using **LLaMA-3.3-70B via Groq API**.
 
 **Tech Stack**
 
-React • Vite • Tailwind • Node.js • Express • Groq API
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express" title="React • Vite • Tailwind • Node.js • Express" height="30" />  
+<a href="https://www.groq.com/" target="_blank"><img src="https://img.shields.io/badge/Groq-API-blue?style=for-the-badge" title="Groq API" height="30"/></a>
+</p>
 
 ---
 
 ## 🌦 Weather Application
 
-🔗 GitHub
-[https://github.com/Naol724/WeatherApp](https://github.com/Naol724/WeatherApp)
-
-🌐 Live Demo
-[https://weather-app-delta-two-88.vercel.app/](https://weather-app-delta-two-88.vercel.app/)
+🔗 GitHub: [Weather App](https://github.com/Naol724/WeatherApp)
+🌐 Live Demo: [Live Demo](https://weather-app-delta-two-88.vercel.app/)
 
 Real-time weather application using **OpenWeatherMap API** with geolocation support.
 
 **Tech Stack**
 
-JavaScript • Tailwind CSS • API Integration
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,tailwind" title="JavaScript • Tailwind CSS" height="30" />  
+<a href="https://openweathermap.org/api" target="_blank"><img src="https://img.shields.io/badge/OpenWeatherMap-API-blue?style=for-the-badge" title="OpenWeatherMap API" height="30"/></a>
+</p>
 
 ---
 
 ## 🛒 React E-Commerce App (Amazon-Style)
 
-🔗 GitHub
-[https://github.com/Naol724/React-Amazon-clone](https://github.com/Naol724/React-Amazon-clone)
+🔗 GitHub: [React Amazon Clone](https://github.com/Naol724/React-Amazon-clone)
+🌐 Live Demo: [Live Demo](https://react-ecommerce-app-24et.onrender.com/)
 
-🌐 Live Demo
-[https://react-ecommerce-app-24et.onrender.com/](https://react-ecommerce-app-24et.onrender.com/)
-
-A full e-commerce platform with authentication, payments, and order history.
+Full e-commerce platform with authentication, payments, and order history.
 
 **Tech Stack**
 
-React • Firebase • Stripe API • Vite
+<p>
+<img src="https://skillicons.dev/icons?i=react,firebase,stripe" title="React • Firebase • Stripe" height="30" />  
+<img src="https://skillicons.dev/icons?i=vite" title="Vite" height="30"/>
+</p>
 
 ---
 
 ## 🎬 Netflix Clone – React Movie App
 
-🔗 GitHub
-[https://github.com/Naol724/react-movie-app](https://github.com/Naol724/react-movie-app)
-
-🌐 Live Demo
-[https://movie-streaming-app-0p2g.onrender.com/](https://movie-streaming-app-0p2g.onrender.com/)
+🔗 GitHub: [React Movie App](https://github.com/Naol724/react-movie-app)
+🌐 Live Demo: [Live Demo](https://movie-streaming-app-0p2g.onrender.com/)
 
 Netflix-style streaming UI using **TMDb API** and **YouTube trailer integration**.
+
+**Tech Stack**
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" title="React" height="30" />  
+<a href="https://www.themoviedb.org/documentation/api" target="_blank"><img src="https://img.shields.io/badge/TMDb-API-blue?style=for-the-badge" title="TMDb API" height="30"/></a>  
+<a href="https://developers.google.com/youtube" target="_blank"><img src="https://img.shields.io/badge/YouTube-API-red?style=for-the-badge" title="YouTube API" height="30"/></a>
+</p>
 
 ---
 
 ## 📚 Library Management System
 
-🔗 GitHub
-[https://github.com/Naol724/Library-management-system-with-Javafx](https://github.com/Naol724/Library-management-system-with-Javafx)
+🔗 GitHub: [Library Management System](https://github.com/Naol724/Library-management-system-with-Javafx)
 
 Desktop **Library Management System** built with **JavaFX + PostgreSQL** using MVC architecture.
+
+**Tech Stack**
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,postgres" title="Java • PostgreSQL" height="30" />
+</p>
 
 ---
 
 ## 🎨 Bootstrap App Clone
 
-🔗 GitHub
-[https://github.com/Naol724/Bootstrap-App-Clone](https://github.com/Naol724/Bootstrap-App-Clone)
-
-🌐 Live Demo
-[https://bootstrap-app-clone-1.onrender.com/](https://bootstrap-app-clone-1.onrender.com/)
+🔗 GitHub: [Bootstrap App Clone](https://github.com/Naol724/Bootstrap-App-Clone)
+🌐 Live Demo: [Live Demo](https://bootstrap-app-clone-1.onrender.com/)
 
 Apple-style responsive UI built with **Bootstrap 5**.
+
+**Tech Stack**
+
+<p>
+<img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap 5" height="30" />
+</p>
 
 ---
 
@@ -193,7 +207,6 @@ Apple-style responsive UI built with **Bootstrap 5**.
 
 # 💼 Open To
 
-✔ Frontend Development
 ✔ Full Stack Development
 ✔ Flutter Mobile Development
 ✔ Internship Opportunities
@@ -224,28 +237,6 @@ I believe in:
 ✔ Deep Learning
 ✔ Building Real Projects
 ✔ Continuous Growth
-
----
-
-💡 **Important step (many people forget this):**
-
-To make this appear on your GitHub profile:
-
-1️⃣ Create a **new repository** named exactly:
-
-```
-Naol724
-```
-
-2️⃣ Add a file:
-
-```
-README.md
-```
-
-3️⃣ Paste this code inside.
-
-Then your **GitHub profile will look like a professional developer page.**
 
 ---
 
