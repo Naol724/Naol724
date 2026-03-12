@@ -23,6 +23,10 @@ I focus on building **scalable real-world systems that solve meaningful problems
 > *“Consistency builds mastery.”*
 
 ---
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Naol724/Naol724/blob/output/github-contribution-grid-snake.svg)
+
 
 # 🛠 Tech Stack
 
