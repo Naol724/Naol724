@@ -137,7 +137,7 @@ I enjoy transforming complex ideas into **practical, user-focused solutions** �
 
 ## 🤖1. TrustReview AI – Fake Review Detection System
 
-🔗 GitHub: [TrustReview AI](https://github.com/Naol724/TrustReview-AI)  
+🔗 GitHub: [TrustReview AI](https://github.com/Naol724/TrustReview-AI)    
 🌐 Live Demo: [Live Demo](https://trust-review-ai.vercel.app/)
 
 AI-powered system that detects **fake vs. genuine product reviews** using Machine Learning and NLP techniques with high accuracy.
@@ -156,7 +156,7 @@ Includes **real-time analysis, confidence scoring, analytics dashboard, and data
 
 ## 🧠 2. DebugSense AI – Smart Error Explainer
 
-🔗 GitHub: [DebugSense AI](https://github.com/Naol724/Debugsenser-ai)
+🔗 GitHub: [DebugSense AI](https://github.com/Naol724/Debugsenser-ai)    
 🌐 Live Demo: [Live Demo](https://debugsenser-ai-3.onrender.com/)
 
 AI-powered system that explains programming errors and provides corrected code using **LLaMA-3.3-70B via Groq API**.
@@ -172,7 +172,7 @@ AI-powered system that explains programming errors and provides corrected code u
 
 ## 🛒 3. React E-Commerce App (Amazon-Style)
 
-🔗 GitHub: [React Amazon Clone](https://github.com/Naol724/React-Amazon-clone)
+🔗 GitHub: [React Amazon Clone](https://github.com/Naol724/React-Amazon-clone)   
 🌐 Live Demo: [Live Demo](https://react-ecommerce-app-24et.onrender.com/)
 
 Full e-commerce platform with authentication, payments, and order history.
@@ -188,7 +188,7 @@ Full e-commerce platform with authentication, payments, and order history.
 
 ## 🎬 4. Netflix Clone – React Movie App
 
-🔗 GitHub: [React Movie App](https://github.com/Naol724/react-movie-app)
+🔗 GitHub: [React Movie App](https://github.com/Naol724/react-movie-app.   
 🌐 Live Demo: [Live Demo](https://movie-streaming-app-0p2g.onrender.com/)
 
 Netflix-style streaming UI using **TMDb API** and **YouTube trailer integration**.
@@ -206,7 +206,7 @@ Netflix-style streaming UI using **TMDb API** and **YouTube trailer integration*
 
 ## 💬 5. Evangadi Forum – Modern Q&A Platform
 
-🔗 GitHub: [Evangadi Forum](https://github.com/Naol724/evangadi-forum)  
+🔗 GitHub: [Evangadi Forum](https://github.com/Naol724/evangadi-forum)    
 🌐 Live Demo: [Live Demo](https://evangadi-forum-hazel.vercel.app/)
 
 A full-stack **community-driven Q&A platform** built with modern web technologies, featuring authentication, real-time interactions, and a clean glassmorphism UI.
@@ -226,7 +226,7 @@ Includes **JWT authentication, bookmarking system, contribution dashboard, and A
 
 ## 🌦 6. Weather Application
 
-🔗 GitHub: [Weather App](https://github.com/Naol724/WeatherApp)
+🔗 GitHub: [Weather App](https://github.com/Naol724/WeatherApp)   
 🌐 Live Demo: [Live Demo](https://weather-app-delta-two-88.vercel.app/)
 
 Real-time weather application using **OpenWeatherMap API** with geolocation support.
@@ -244,7 +244,7 @@ Real-time weather application using **OpenWeatherMap API** with geolocation supp
 
 ## 🏠 7. YENE BET – Rental Web Application
 
-🔗 GitHub: [YENE BET](https://github.com/Naol724/YENE-BETA)  
+🔗 GitHub: [YENE BET](https://github.com/Naol724/YENE-BETA)   
 🌐 Live Demo: [Live Demo](https://yenebeta.vercel.app)
 
 A full-stack **rental platform (PWA)** for browsing properties, saving favorites, messaging owners, and managing listings through an owner dashboard.
@@ -263,7 +263,7 @@ Includes **JWT authentication, real-time messaging, map integration, analytics d
 
 ## 🎨 8. Bootstrap App Clone
 
-🔗 GitHub: [Bootstrap App Clone](https://github.com/Naol724/Bootstrap-App-Clone)
+🔗 GitHub: [Bootstrap App Clone](https://github.com/Naol724/Bootstrap-App-Clone)   
 🌐 Live Demo: [Live Demo](https://bootstrap-app-clone-1.onrender.com/)
 
 Apple-style responsive UI built with **Bootstrap 5**.
@@ -280,7 +280,7 @@ Apple-style responsive UI built with **Bootstrap 5**.
 
 ## 🎓 9. UniHub – Smart University Collaboration Platform
 
-🔗 GitHub: [UniHub](https://github.com/Naol724/UniHub)  
+🔗 GitHub: [UniHub](https://github.com/Naol724/UniHub)   
 🌐 Live Demo: [Live Demo](https://uni-hub-theta.vercel.app)
 
 A full-stack **collaboration platform** designed for university students to manage projects, communicate in real-time, and share resources in one system.
@@ -314,45 +314,49 @@ Desktop **Library Management System** built with **JavaFX + PostgreSQL** using M
 
 # 🎯 Current Focus
 
-🚀 Advanced React Patterns
-⚙ Backend Architecture & API Design
-📱 Advanced Flutter State Management
-🌍 Scalable Full Stack Applications
+🚀 Building **AI-powered applications** (NLP, ML integration in real systems)  
+⚙ Designing **scalable backend architectures & REST APIs**  
+🌐 Developing **full-stack platforms (MERN + Flask + PostgreSQL/MongoDB)**  
+📱 Creating **high-performance, user-focused web & mobile experiences**  
 
 ---
 
 # 💼 Open To
 
-✔ Full Stack Development
-✔ Flutter Mobile Development
-✔ Internship Opportunities
-✔ Remote Work
+✔ Full Stack Developer Roles (Frontend + Backend)  
+✔ AI / ML-Based Application Development  
+✔ Internship & Entry-Level Software Engineering Roles  
+✔ Remote & On-site Opportunities  
 
 ---
 
 # 📫 Connect With Me
 
-📧 Email
+📧 Email  
 [naolgonfa39@gmail.com](mailto:naolgonfa39@gmail.com)
 
-🔗 LinkedIn
+🌐 Website  
+[https://naol.online](https://naol.online)
+
+🔗 LinkedIn  
 [https://www.linkedin.com/in/naol-gonfa-61b7a9363/](https://www.linkedin.com/in/naol-gonfa-61b7a9363/)
 
-💻 GitHub
+💻 GitHub  
 [https://github.com/Naol724](https://github.com/Naol724)
 
 ---
 
 # 🔥 Personal Drive
 
-I started with **limited resources but strong discipline and focus.**
+I started with **limited resources but strong discipline and consistency**, and built my skills through real-world projects and continuous learning.
 
 I believe in:
 
-✔ Hard Work
-✔ Deep Learning
-✔ Building Real Projects
-✔ Continuous Growth
+✔ Solving real problems with technology  
+✔ Writing clean, scalable, and maintainable code  
+✔ Continuous improvement through building and learning  
+✔ Staying consistent even when progress is slow  
+
+> *“I don’t just learn — I build, improve, and deliver.”*
 
 ---
-
