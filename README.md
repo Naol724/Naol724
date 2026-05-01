@@ -135,7 +135,7 @@ I enjoy transforming complex ideas into **practical, user-focused solutions** �
 
 ---
 
-## 🤖1.TrustReview AI – Fake Review Detection System
+## 🤖1. TrustReview AI – Fake Review Detection System
 
 🔗 GitHub: [TrustReview AI](https://github.com/Naol724/TrustReview-AI)  
 🌐 Live Demo: [Live Demo](https://trust-review-ai.vercel.app/)
@@ -154,7 +154,7 @@ Includes **real-time analysis, confidence scoring, analytics dashboard, and data
 
 ---
 
-## 🧠 2.DebugSense AI – Smart Error Explainer
+## 🧠 2. DebugSense AI – Smart Error Explainer
 
 🔗 GitHub: [DebugSense AI](https://github.com/Naol724/Debugsenser-ai)
 🌐 Live Demo: [Live Demo](https://debugsenser-ai-3.onrender.com/)
@@ -170,7 +170,7 @@ AI-powered system that explains programming errors and provides corrected code u
 
 ---
 
-## 🛒 3.React E-Commerce App (Amazon-Style)
+## 🛒 3. React E-Commerce App (Amazon-Style)
 
 🔗 GitHub: [React Amazon Clone](https://github.com/Naol724/React-Amazon-clone)
 🌐 Live Demo: [Live Demo](https://react-ecommerce-app-24et.onrender.com/)
@@ -186,7 +186,7 @@ Full e-commerce platform with authentication, payments, and order history.
 
 ---
 
-## 🎬 4.Netflix Clone – React Movie App
+## 🎬 4. Netflix Clone – React Movie App
 
 🔗 GitHub: [React Movie App](https://github.com/Naol724/react-movie-app)
 🌐 Live Demo: [Live Demo](https://movie-streaming-app-0p2g.onrender.com/)
@@ -203,9 +203,8 @@ Netflix-style streaming UI using **TMDb API** and **YouTube trailer integration*
 
 ---
 
----
 
-## 💬 5.Evangadi Forum – Modern Q&A Platform
+## 💬 5. Evangadi Forum – Modern Q&A Platform
 
 🔗 GitHub: [Evangadi Forum](https://github.com/Naol724/evangadi-forum)  
 🌐 Live Demo: [Live Demo](https://evangadi-forum-hazel.vercel.app/)
@@ -225,7 +224,7 @@ Includes **JWT authentication, bookmarking system, contribution dashboard, and A
 ---
 
 
-## 🌦 6.Weather Application
+## 🌦 6. Weather Application
 
 🔗 GitHub: [Weather App](https://github.com/Naol724/WeatherApp)
 🌐 Live Demo: [Live Demo](https://weather-app-delta-two-88.vercel.app/)
@@ -243,7 +242,7 @@ Real-time weather application using **OpenWeatherMap API** with geolocation supp
 
 ---
 
-## 🏠 7.YENE BET – Rental Web Application
+## 🏠 7. YENE BET – Rental Web Application
 
 🔗 GitHub: [YENE BET](https://github.com/Naol724/YENE-BETA)  
 🌐 Live Demo: [Live Demo](https://yenebeta.vercel.app)
@@ -262,7 +261,7 @@ Includes **JWT authentication, real-time messaging, map integration, analytics d
 
 ---
 
-## 🎨 8.Bootstrap App Clone
+## 🎨 8. Bootstrap App Clone
 
 🔗 GitHub: [Bootstrap App Clone](https://github.com/Naol724/Bootstrap-App-Clone)
 🌐 Live Demo: [Live Demo](https://bootstrap-app-clone-1.onrender.com/)
@@ -279,7 +278,7 @@ Apple-style responsive UI built with **Bootstrap 5**.
 
 ---
 
-## 🎓 9.UniHub – Smart University Collaboration Platform
+## 🎓 9. UniHub – Smart University Collaboration Platform
 
 🔗 GitHub: [UniHub](https://github.com/Naol724/UniHub)  
 🌐 Live Demo: [Live Demo](https://uni-hub-theta.vercel.app)
@@ -299,7 +298,7 @@ Includes **team management, Kanban task boards, real-time chat (Socket.io), file
 ---
 
 
-## 📚 10.Library Management System
+## 📚 10. Library Management System
 
 🔗 GitHub: [Library Management System](https://github.com/Naol724/Library-management-system-with-Javafx)
 
