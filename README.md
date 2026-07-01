@@ -7,7 +7,7 @@ Hi 👋, I'm Naol Gonfa
 </h1>
 
 <h3 align="center">
-Full Stack Developer | AI Systems Builder | Problem Solver
+Full Stack Developer | QA Engineer  | AI Engineering Enthusiastic
 </h3>
 
 <p align="center">
